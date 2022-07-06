@@ -2,3 +2,4 @@
 Blender models of low poly projects created so far!!!!
 Following are the list of models included in the repo:
 1. Harry Potter (Low Poly) 
+2. Aeroplane (Low Poly)
